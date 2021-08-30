@@ -63,24 +63,24 @@
 
   * ### [4.2.3 Generic NPCs](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/NPCs/Generic-NPCs)
 
-# 5 Factions & Organizations
+# [5 Factions & Organizations](https://github.com/CGavinMullis/Oliran-Github/tree/main/Factions-And-Organizations)
 
-# 6 History & Cosmology
+# [6 History & Cosmology](https://github.com/CGavinMullis/Oliran-Github/tree/main/History-And-Cosmology)
 
-# 7 Magic
+# [7 Magic](https://github.com/CGavinMullis/Oliran-Github/tree/main/Magic)
 
-# 8 Monsters
+# [8 Monsters](https://github.com/CGavinMullis/Oliran-Github/tree/main/Monsters)
 
-* ## 8.1 Bosses
+* ## [8.1 Bosses](https://github.com/CGavinMullis/Oliran-Github/tree/main/Monsters/Bosses)
 
-* ## 8.2 Generic Monsters
+* ## [8.2 Generic Monsters](https://github.com/CGavinMullis/Oliran-Github/tree/main/Monsters/Generic-Monsters)
 
-# 9 Quests
+# [9 Quests](https://github.com/CGavinMullis/Oliran-Github/tree/main/Quests)
 
-* ## 9.1 Main Quests
+* ## [9.1 Main Quests](https://github.com/CGavinMullis/Oliran-Github/tree/main/Quests/Main-Quests)
 
-* ## 9.2 Side Quests
+* ## [9.2 Side Quests](https://github.com/CGavinMullis/Oliran-Github/tree/main/Quests/Side-Quests)
 
-# 10 Religion
+# [10 Religion](https://github.com/CGavinMullis/Oliran-Github/tree/main/Religion)
 
-# 11 Resources
+# [11 Resources](https://github.com/CGavinMullis/Oliran-Github/tree/main/Resources)
