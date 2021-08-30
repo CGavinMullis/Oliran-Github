@@ -13,7 +13,7 @@
 - [11 Resources](#11-resources)
 
 # [1 Introduction](https://github.com/CGavinMullis/Oliran-Github/tree/main/Introduction)
-This is a test...
+This is a test.....
 # [2 Adventure Logs](https://github.com/CGavinMullis/Oliran-Github/tree/main/Adventure-Logs)
 
 # [3 Atlas](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas)
