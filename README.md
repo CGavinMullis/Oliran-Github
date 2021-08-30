@@ -35,7 +35,7 @@
 
 # 1 Introduction
 
-# 2 Adventure Logs
+# [2 Adventure Logs](https://github.com/CGavinMullis/Oliran-Github/tree/main/Adventure-Logs)
 
 # [3 Atlas](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas)
 
@@ -53,19 +53,19 @@
 
 ### [3.5.2 Dungeon](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local/Dungeon)
 
-# 4 Characters
+# [4 Characters](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters)
 
-## 4.1 PCs
+## [4.1 PCs](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs)
 
-### 4.1.1 Chase
+### [4.1.1 Chase](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs/Chase)
 
-### 4.1.2 Dawn
+### [4.1.2 Dawn](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs/Dawn)
 
-### 4.1.3 Tyler
+### [4.1.3 Tyler](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs/Tyler)
 
-### 4.1.4 Brian
+### [4.1.4 Brian](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs/Brian)
 
-### 4.1.5 Travis
+### [4.1.5 Travis](https://github.com/CGavinMullis/Oliran-Github/tree/main/Characters/PCs/Travis)
 
 ## 4.2 NPCs
 
