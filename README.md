@@ -1,6 +1,5 @@
-# Table of Contents
+# Table of Contents <!-- omit in toc --> 
 
-- [Table of Contents](#table-of-contents)
 - [1 Introduction](#1-introduction)
 - [2 Adventure Logs](#2-adventure-logs)
 - [3 Atlas](#3-atlas)
@@ -10,7 +9,7 @@
   - [3.4 City](#34-city)
   - [3.5 Local](#35-local)
     - [3.5.1 Scene](#351-scene)
-    - [3.5.2 Playable](#352-playable)
+    - [3.5.2 Dungeon](#352-dungeon)
 - [4 Characters](#4-characters)
   - [4.1 PCs](#41-pcs)
     - [4.1.1 Chase](#411-chase)
@@ -32,6 +31,7 @@
   - [9.1 Main Quests](#91-main-quests)
   - [9.2 Side Quests](#92-side-quests)
 - [10 Religion](#10-religion)
+- [11 Resources](#11-resources)
 
 # 1 Introduction
 
@@ -51,7 +51,7 @@
 
 ### 3.5.1 Scene
 
-### 3.5.2 Playable
+### 3.5.2 Dungeon
 
 # 4 Characters
 
@@ -94,3 +94,5 @@
 ## 9.2 Side Quests
 
 # 10 Religion
+
+# 11 Resources
