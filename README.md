@@ -37,21 +37,21 @@
 
 # 2 Adventure Logs
 
-# 3 Atlas
+# [3 Atlas](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas)
 
-## 3.1 World
+## [3.1 World](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/World)
 
-## 3.2 Continental
+## [3.2 Continental](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental)
 
-## 3.3 Regional
+## [3.3 Regional](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Regional)
 
-## 3.4 City
+## [3.4 City](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/City)
 
-## 3.5 Local
+## [3.5 Local](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local)
 
-### 3.5.1 Scene
+### [3.5.1 Scene](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local/Scene)
 
-### 3.5.2 Dungeon
+### [3.5.2 Dungeon](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local/Dungeon)
 
 # 4 Characters
 
