@@ -3,8 +3,8 @@
 
 * ## [Velik](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik)
 
-  * ### [The Lunar Isles](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continenta/Velik/The-Lunar-Isles)
+  * ### [The Lunar Isles](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik/The-Lunar-Isles)
 
-* ## [Ioslend](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continenta/Ioslend)
+* ## [Ioslend](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Ioslend)
 
-* ## [Eris](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continenta/Eris)
+* ## [Eris](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Eris)
