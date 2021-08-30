@@ -33,7 +33,7 @@
 - [10 Religion](#10-religion)
 - [11 Resources](#11-resources)
 
-# 1 Introduction
+# [1 Introduction](https://github.com/CGavinMullis/Oliran-Github/tree/main/Introduction)
 
 # [2 Adventure Logs](https://github.com/CGavinMullis/Oliran-Github/tree/main/Adventure-Logs)
 
