@@ -1,1 +1,1 @@
-![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
+![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
