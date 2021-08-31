@@ -1,4 +1,13 @@
-# Titurel Island
+# Table of Contents <!-- omit in toc --> 
+
+- [Titurel Island](#titurel-island)
+- [Death's Door](#deaths-door)
+- [Mermaid's Landing](#mermaids-landing)
+  - [The Thick Bucaneer](#the-thick-bucaneer)
+  - [The Glowing Lady](#the-glowing-lady)
+- [The Village of Birds](#the-village-of-birds)
+
+## Titurel Island
 ![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
 
 ## Death's Door
