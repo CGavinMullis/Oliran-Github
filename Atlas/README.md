@@ -31,6 +31,8 @@
   
     * #### [Titurel Island](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik/Titurel-Island)
 
+    ![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
+
 * ## [Local](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local)
 
   * ### [Dungeon](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Local/Dungeon)

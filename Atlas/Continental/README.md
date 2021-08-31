@@ -13,6 +13,8 @@
   
   * ### [Titurel Island](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik/Titurel-Island)
 
+  ![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
+
 * ## [Ioslend](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Ioslend)
 
 * ## [Eris](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Eris)
