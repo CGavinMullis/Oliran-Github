@@ -72,3 +72,5 @@ Welcome to the mystical World of Oliran.
 # [10 Religion](https://github.com/CGavinMullis/Oliran-Github/tree/main/Religion)
 
 # [11 Resources](https://github.com/CGavinMullis/Oliran-Github/tree/main/Resources)
+
+# [12 Music](https://github.com/CGavinMullis/Oliran-Github/tree/main/Music)
