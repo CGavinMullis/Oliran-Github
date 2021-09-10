@@ -11,3 +11,7 @@
 
 ## [Death's Cove](https://github.com/CGavinMullis/Oliran-Github/tree/main/Atlas/Continental/Velik/Titurel-Island#deaths-door)
 ![Death's Door](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Deaths-Door.jpg)
+
+![Constrictor Snake](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Constrictor-Snake.jpg)
+
+![Flying Snake](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Flying-Snake.jpg)

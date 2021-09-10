@@ -2,10 +2,18 @@
 
 - [Titurel Island](#titurel-island)
 - [Death's Door](#deaths-door)
+  - [Setting](#setting)
+  - [Knocking On Death's Door Quest](#knocking-on-deaths-door-quest)
 - [Mermaid's Landing](#mermaids-landing)
   - [The Thick Bucaneer](#the-thick-bucaneer)
   - [The Glowing Lady](#the-glowing-lady)
 - [The Village of Birds](#the-village-of-birds)
+  - [Setting](#setting-1)
+  - [Misty Run](#misty-run)
+  - [Cave of Snakes](#cave-of-snakes)
+  - [Grandpawa Tops](#grandpawa-tops)
+- [The Unliving Pinnacle](#the-unliving-pinnacle)
+  - [The Barren Lands](#the-barren-lands)
 
 ## Titurel Island
 ![Titurel Island](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Titurel-Island.jpg)
@@ -29,3 +37,22 @@ The cove itself is full of crashed ships that failed to make it into Mermaid's L
 
 ## The Village of Birds
 ![The Village of Birds](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/The-Village-Of-Birds.jpg)
+
+### Setting
+This remote village of birdfolk resides along the brook known as Misty Run. Bulbous homes made of animal hide and palm wood can be seen around the village. An invisible warbling magic barrier exists around the village preventing outsiders from entering. Villagers of the Sqoot Clan entering and exiting the village pass through the barrier as if it wasn't even there. Outsiders considered honorary Sqoot clan members are able to pass through in much the same way.
+
+### Misty Run
+![Misty Run](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Misty-Run.jpg)
+
+### Cave of Snakes
+![Cave of Snakes](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Snake-Cave.jpg)
+
+### Grandpawa Tops
+![Grandpawa Tops](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Grandpawa-Tops.jpg)
+
+## The Unliving Pinnacle
+![The Unliving Pinnacle](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/The-Unliving-Pinnacle.jpg)
+
+### The Barren Lands
+![The Barren Lands](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Barren-Lands.jpg)
+
