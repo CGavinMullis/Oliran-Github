@@ -33,6 +33,7 @@ Once his son has been found return with him to the Captain's Quarters to receive
 ## Environment
 The caves are dimly lit by phosphorescent mushrooms and the water underfoot creates large areas of difficult terrain with narrow (5ft) channels of dry land.
 
+![Crazed-Mycologist-Tunnels](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Dungeon/Mycologist-Tunnel.jpg)
 ## Encounter 1 – The missing patrol
 Read or paraphrase
 
