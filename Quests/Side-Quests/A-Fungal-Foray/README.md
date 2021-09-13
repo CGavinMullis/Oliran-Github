@@ -99,6 +99,7 @@ If the characters return to the guard house with the Captain’s son the captain
 ![Mad Druid Mycologist](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Bosses/Mad-Mycologist/Mad-Mycologist.jpg)
 
 Small humanoid (gnome), Neutral Evil
+
 Stat        | Value
 ------------|-----------------------
 Armor Class | 10 (16 with barkskin)
