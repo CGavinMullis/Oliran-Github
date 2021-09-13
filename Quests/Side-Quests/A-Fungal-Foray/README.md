@@ -57,7 +57,7 @@ The guards are completely covered by rust coloured fungus, their eyes are also r
 
 * Survival 14: The shrieking mushrooms are alerted by light and heavy vibration. Moving carefully without light would allow you to avoid detection.
 
-
+![Crazed-Mycologist-Lair](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Dungeon/Mycologist-Lair.jpg)
 ## Encounter 2 – The mad mycologist
 Continuing down the tunnel after around half an hour you hear chanting. Ahead of you the tunnel opens out into a large chamber filled with various kinds of fungi planted in rows. At the centre of the room is a barefoot gnome dressed in rags. He dances around a chair placed in the centre of the room chanting. In the chair you can see an unconscious boy, various tubes have been inserted in to the boy’s nose and mouth. In the shadows around the room other figures can be seen standing perfectly still.
 
