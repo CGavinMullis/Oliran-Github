@@ -75,32 +75,41 @@ The boy can be identified as the Cpatain’s son from the fine clothes he wears.
 If the characters return to the guard house with the Captain’s son the captain will ask for a summary of their activities. He will dispatch a squad of guards to recover the bodies and destroy the fungi if any remains. He will also pay the characters 80 gp each. If for some reason the Captain’s son died the players will only receive 40 gp each.
 
 ### Enemies
-Guard: Basic rules pg 163 or monster manual pg 347
 
-Violet fungus: Monster manual pg 138
+#### Guards
+![Fungal Guard Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Guard-Stats.PNG)
 
-Commoner: Basic rules pg 163 or monster manual pg 345
+![Guard 1](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Guard-1.jpg)
 
-Mad Druid Mycologist
+![Guard 2](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Guard-2.jpg)
+
+![Guard 3](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Guard-3.jpg)
+
+#### Violet fungus
+![Violet Fungus Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Violet-Fungus/Violet-Fungus-Stats.PNG)
+
+![Violet Fungus](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Violet-Fungus/Violet-Fungus.jpeg)
+
+#### Commoners
+![Fungal Commoner Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Commoner-Stats.PNG)
+
+![Fungal Commoners](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Commoner.jpg)
+
+#### Mad Druid Mycologist
+![Mad Druid Mycologist](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Bosses/Mad-Mycologist/Mad-Mycologist.jpg)
+
 Small humanoid (gnome), Neutral Evil
-
-Armor Class 10 (16 with barkskin)
-
-Hit Points 33 (6d8+6)
-
-Speed 25 ft.
-
-STR 11 (+2)
-
-DEX 13 (+1)
-
-CON 12 (+1)
-
-INT 11 (+0)
-
-WIS 14 (+2)
-
-CHA 9 (-1)
+Stat        | Value
+------------|-----------------------
+Armor Class | 10 (16 with barkskin)
+Hit Points  | 33 (6d8+6)
+Speed       | 25 ft.
+STR         | 11 (+2)
+DEX         |13 (+1)
+CON         | 12 (+1)
+INT         | 11 (+0)
+WIS         | 14 (+2)
+CHA         | 9 (-1)
 
 Damage Resistances poison
 
