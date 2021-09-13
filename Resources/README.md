@@ -1,9 +1,9 @@
 # Brainstorming
 
-## The Pale-Scaled Nago
+## A Fungal Foray
 Captain && || Party is poisoned by the Constrictor Snake (Pale-Scaled Nago)
 Venom Takes ~7 days to to kill
-~Symptoms Start on the first day after being poisoned
+~Symptoms Start on the first day after being Infected
 
 ### Day 1:
 Name: Elastic Dysfunctions
