@@ -91,9 +91,9 @@ If the characters return to the guard house with the Captain’s son the captain
 ![Violet Fungus](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Violet-Fungus/Violet-Fungus.jpeg)
 
 #### Commoners
-![Fungal Commoner Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Commoner-Stats.PNG)
+![Fungal Commoner Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Commoner/Fungal-Commoner-Stats.PNG)
 
-![Fungal Commoners](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Guard/Fungal-Commoner.jpg)
+![Fungal Commoners](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Fungal-Commoner/Fungal-Commoner.jpg)
 
 #### Mad Druid Mycologist
 ![Mad Druid Mycologist](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Bosses/Mad-Mycologist/Mad-Mycologist.jpg)
