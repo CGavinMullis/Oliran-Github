@@ -5,7 +5,7 @@
   - [Setting](#setting)
   - [Knocking On Death's Door Quest](#knocking-on-deaths-door-quest)
 - [Mermaid's Landing](#mermaids-landing)
-  - [A Fungal Foray](#a-fungal-foray)
+  - [A Fungal Foray Quest](#a-fungal-foray-quest)
   - [The Thick Bucaneer](#the-thick-bucaneer)
   - [The Glowing Lady](#the-glowing-lady)
 - [The Village of Birds](#the-village-of-birds)
@@ -30,7 +30,7 @@ The cove itself is full of crashed ships that failed to make it into Mermaid's L
 ## Mermaid's Landing
 ![Mermaid's Landing](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Mermaids-Landing.jpg)
 
-### [A Fungal Foray](https://github.com/CGavinMullis/Oliran-Github/tree/main/Quests/Side-Quests/A-Fungal-Foray)
+### [A Fungal Foray Quest](https://github.com/CGavinMullis/Oliran-Github/tree/main/Quests/Side-Quests/A-Fungal-Foray)
 
 ### The Thick Bucaneer
 ![The Thick Bucaneer](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/The-Thick-Bucaneer.jpg)
