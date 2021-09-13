@@ -9,9 +9,10 @@ Several people have disappeared from the area at night
 First disappearance was a traveling botanist who was there to study unusual, mutated plant life in the area.
 Roughly two people disappear every month although the rate isn’t constant, seems to be increasing.
 Loud, inhuman screaming is heard two days after each disappearance.
-Already sent in some men to look for the baron’s son but they haven’t reported back yet.
+Already sent in some men to look for the Captain’s son but they haven’t reported back yet.
 Once his son has been found return with him to the Captain's Quarters to receive your pay.
 
+![Crazed-Mycologist-Riverbank](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Crazed-Mycologist-Riverbank.jpg)
 ## Clues on the riverbank
 
 * The ground is trampled with several sets of tracks
@@ -35,8 +36,6 @@ The caves are dimly lit by phosphorescent mushrooms and the water underfoot crea
 
 ![Crazed-Mycologist-Tunnels](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Dungeon/Mycologist-Tunnel.jpg)
 ## Encounter 1 – The missing patrol
-Read or paraphrase
-
 The stone of the caves is slick with water, and it is hard to maintain your balance as you walk. Along the walls of the tunnel mushrooms thrive in the dank, dark environment, giving of a sickly green light. Small side tunnels join the main cave system, filtering down through the cliffs above you.
 
 After a few minutes of walking the players come across several guards stood stock still in the centre of the tunnel.
@@ -47,17 +46,19 @@ If the party has any light sources or are speaking or travelling normally, then 
 
 If the shriekiers activate and the characters continue to approach, they will be attacked by the three guards aided by a violet fungus. The guards have no survival instinct and will fight to the death. If killed the guards have 2 gp in small change between them.
 
-The map Sewer Tunnel can be used for this fight.
 
-Clues from the battle
+## Clues from the battle
 
 The guards are completely covered by rust coloured fungus, their eyes are also rust coloured and fungus can be seen inside their mouths.
-Nature DC 15: Some fungi exist which can control the minds of small animals to help spread the spores
-Medicine DC 17: There are signs of damage to the mouth and nose which suggest the guards were forced to drink something.
-Survival 14: The shrieking mushrooms are alerted by light and heavy vibration. Moving carefully without light would allow you to avoid detection.
-Encounter 2 – The mad mycologist
-Read or paraphrase
 
+* Nature DC 15: Some fungi exist which can control the minds of small animals to help spread the spores
+  
+* Medicine DC 17: There are signs of damage to the mouth and nose which suggest the guards were forced to drink something.
+
+* Survival 14: The shrieking mushrooms are alerted by light and heavy vibration. Moving carefully without light would allow you to avoid detection.
+
+
+## Encounter 2 – The mad mycologist
 Continuing down the tunnel after around half an hour you hear chanting. Ahead of you the tunnel opens out into a large chamber filled with various kinds of fungi planted in rows. At the centre of the room is a barefoot gnome dressed in rags. He dances around a chair placed in the centre of the room chanting. In the chair you can see an unconscious boy, various tubes have been inserted in to the boy’s nose and mouth. In the shadows around the room other figures can be seen standing perfectly still.
 
 The central figure is a Druid Mycologist (see end for stat block). He is assisted by two commoners. The chamber entrance is surrounded by camouflaged shriekers (DC 25 perception to notice them). If the shriekers are alerted by light or open movement they will scream and alert the druid who will attack starting combat (DC 6 stealth check to avoid the shriekers noticing the party).
@@ -68,12 +69,12 @@ If the players try to reason with the druid he will be willing to talk. He will 
 
 If they kill the enemies, they find 3 gold in small change on the bodies. Both commoners are covered in the rust-coloured fungus like the guards. The druid is clear of fungus but his eyes have a rust-coloured tinge to them showing he is beginning to succumb to the fungus. The druid also has papers identifying him as Warcorin Lightfen – a mycologist from a nearby university who vanished several years ago. The druid has a bag containing a few magical items: 1 potion of healing, a staff of flowers, and an immovable rod.
 
-The boy can be identified as the baron’s son from the fine clothes he wears. He is unconscious but stable. The tubes connected to his mouth contain a mix of water and rust-coloured spores. As long as the tubes are removed the boy will recover.
+The boy can be identified as the Cpatain’s son from the fine clothes he wears. He is unconscious but stable. The tubes connected to his mouth contain a mix of water and rust-coloured spores. As long as the tubes are removed the boy will recover.
 
-Collecting the reward
-If the characters return to the guard house with the baron’s son the captain will ask for a summary of their activities. He will dispatch a squad of guards to recover the bodies and destroy the fungi if any remains. He will also pay the characters 80 gp each. If for some reason the baron’s son died the players will only receive 40 gp each.
+## Collecting the reward
+If the characters return to the guard house with the Captain’s son the captain will ask for a summary of their activities. He will dispatch a squad of guards to recover the bodies and destroy the fungi if any remains. He will also pay the characters 80 gp each. If for some reason the Captain’s son died the players will only receive 40 gp each.
 
-Enemies
+### Enemies
 Guard: Basic rules pg 163 or monster manual pg 347
 
 Violet fungus: Monster manual pg 138
