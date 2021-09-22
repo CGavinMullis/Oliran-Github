@@ -19,7 +19,8 @@ Marshall is familiar with the Bird Beak Root. It grows around one specific porti
 Marshall is unsure if outsiders can attempt the Trial as he has never heard about it, but he is optimistic that upon completion of the trial the party could enter the village. If the party is still unable to enter the village after completing the trial, Marshall offers to bring the root to the party himself. However, Marshall won't complete the trial alone.
 
 ## Traveling to the Cave of Snakes
-[Path-To-The-Village-Of-Birds](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Path-To-The-Village-Of-Birds.png)
+![Path-To-The-Village-Of-Birds](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Path-To-The-Village-Of-Birds.png)
+
 Before reaching the halfway mark, the Village of Birds, a hooded figure stalks the party.
 
 * Perception DC 15: You have a strange feeling that you are being followed
