@@ -50,8 +50,8 @@ Bulbous homes crafted of animal hide and palm wood can be seen along the banks o
 
 Attempting to attack, ram, break, or otherwise get through the barrier results in 1d4 force damage reflecting back at the attacker.
 
-## Cave of Snakes
-![Cave of Snakes](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Snake-Cave.jpg)
+## Traveling to the Cave of Snakes Part 2
+![Cave of Snakes Upper Ruins](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Snake-Cave-Ruins.jpg)
 The party continues past the Village of Birds following Marshal towards the Trial of Courage
 
 * Perception DC 18: You notice the birds have become quiet again.
@@ -60,3 +60,34 @@ The party continues past the Village of Birds following Marshal towards the Tria
 
 The walk is shorter than the first half and uneventful.
 
+The party comes upon the ruins of a large ancient temple. Weather worn stone can be seen scattered around the area covered in vines, moss, and tree roots. Sunlight can be seen streaming through the surrounding palm trees. A faint smell of still water and wet dirt wafts from the center of the ruins. Water asynchronously dripping onto stone can also be heard from ahead and below. 
+
+## Cave of Snakes Entrance
+![Cave of Snakes](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/Snake-Cave.jpg)
+
+Once in the center of the ruins, a section of caved in floor reveals a large moss covered statue resembling a snake about 25 feet from the upper level. The floor below the statue cannot be seen. Only water of an unknown depth is seen below the structure about 100 feet down. Along the edge of the hole are wet vines hanging down about 50 ft.
+
+### Jumping onto the statue
+The statue looks slick with moss.
+
+* Acrobatics DC 14 or less: You land on the nose of the statue but slip on the moss and slide down the statue into the water below.
+
+* Acrobatics DC 15: You are able to land on the nose of the statue safely.
+
+### Jumping into the water
+The depth of the water can not be seen from above. By dropping a sharp stick or similar object into the water a depth of about 30 ft can be estimated.
+
+### Climbing down the Vines
+
+* Athletics DC 14 or less: You slide down the wet vine unable to get a good grip and fall into the water below.
+
+* Athletics DC 15: You manage to lower yourself to the bottom of the Vine without losing your grip.
+
+## First Encounter
+
+The party enters a room with stone walls and two stone braziers that light themselves as they enter. Some moss can be seen near the entrance and the air here is very stale. On the opposite wall of the entrance words written in birdfolk can be seen. 
+
+*A Hearty Jaunt*\
+*A Leap of Faith*\
+*Run Fast Through Me*\
+*To Enter This Place*\
