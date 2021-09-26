@@ -2,6 +2,7 @@
 
 ## Intro
 The natives of Mermaid's Landing know to avoid the east bank of the river at night. Stories are told of those who went for walks after dark and were never seen again. Fisherman say that sometimes you can hear the scream of the dead coming from the mists by the river and that on days like that the water is filled with the corpses of strange, mutated fish. Most dismiss this as mere rumours but with the disappearance of the Captain Stokley Gresham’s son from the riverside the guard have been forced to act. Captain Stokley Gresham has contacted your group and asked you to search the caves for the missing boy. You meet him on a cool, foggy morning two nights after his son's disappeared.
+Can be found in the Taver drinking away his pain.
 
 ![Captain Stokley Gresham](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/VINPCs/Captain-Stokley-Gresham/Captain-Stokley-Gresham.jpg)
 ## Information Captain Stokley Gresham Has
@@ -75,7 +76,10 @@ The boy can be identified as the Cpatain’s son from the fine clothes he wears.
 If the characters return to the guard house with the Captain’s son the captain will ask for a summary of their activities. He will dispatch a squad of guards to recover the bodies and destroy the fungi if any remains. He will also pay the characters 80 gp each. If for some reason the Captain’s son died the players will only receive 40 gp each.
 
 ## Infection
-~Symptoms Start on the first day after being Infected
+- Symptoms Start on the first day after being Infected
+- Can Visit the Glowing Lady to get info on Symptoms
+- Glowing Lady needs Bird Beak Root to brew cure (Only grows in Village of Birds)
+- Marshall @ Wings & Things can also inform of Village of Birds
 
 ### Day 1:
 Name: Elastic Dysfunctions
