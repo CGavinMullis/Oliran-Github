@@ -26,9 +26,19 @@ Below is a roll 20 macro to do this.
 * Speed
 * Size
 
-# Pick Class
+## Pick a Class
 
 * Spellcaster
 * Melee
 * Utility
 * Other
+
+## Assign Stats
+
+## Calculate Hp
+
+## Choose a Background
+
+## Assign Skills
+
+## Class Shit (Features, Spells)
