@@ -23,8 +23,8 @@
 
 ![Constrictor Snake](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Constrictor-Snake/Constrictor-Snake.jpg)
 
-![Constrictor Snake Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Constrictor-Snake/Constrictor-Snake-Stats.jpg)
+![Constrictor Snake Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Constrictor-Snake/Constrictor-Snake-Stats.png)
 
 ![Flying Snake](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Flying-Snake/Flying-Snake.jpg)
 
-![Flying Snake Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Flying-Snake/Flying-Snake-Stats.jpg)
+![Flying Snake Stats](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Flying-Snake/Flying-Snake-Stats.png)
