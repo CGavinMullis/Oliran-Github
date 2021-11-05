@@ -92,3 +92,43 @@ The party enters a room with stone walls and two stone braziers that light thems
 *Run Fast Through Me*\
 *To Enter This Place*\
 
+Arcana Checks will discern minor illusion from the text on the wall. The Wall is otherwise solid and appears to be as a normal wall. Only upon fully running into the wall does a shimmering door appear on the surface of the wall after the runner first takes 1d4 bludgeoning damage.
+
+As one person passes through the door the door slams shut behind them. If two people try to pass through simultaneously or partially enter and view the interior they will see different interiors.
+
+## Varis Trial
+
+### Location: Lost City of Jehkid
+
+The room starts with a series of stairs leading down to a narrow sandstone bridge with strange raised edges almost as if its carved out like a bowl. Below the sandstone bridge carved rock spears can be seen. Along the walls of the room, 4 groups of holes can be seen in the sandstone, always in groups of 3x3 (a total of 9 per group). At the end of the bridge, a large statue (The Lost One) of a 3 Elephant Headed Humanoid sits criss cross with arms outstretched. In one hand rests a massive triple headed flail. In the other hand, rests a linen bag overflowing with grain. Around the statue are several small carved elephants. They consist of several different colors and materials. Some are carved of expensive stone others are carved of wood and painted. Some consist of several sticks bound together by twine. 
+
+* Marble Elephant
+* Wooden Twigs and Silken Twine
+* Willow Elephant with Painted Polka Dots
+
+### People: Rabin Sev & Ruznack Redbelly
+
+#### Rabin Sev
+
+* Mild Mannered
+* Knowledgable on Desert Terrain
+* Deset Guide Hired by Varis
+
+#### Ruznack Redbelly - Dwarf
+
+* Greedy
+* Dense
+* Helpful in a Dungeon Crawl
+
+Upon entering the room the voice of Rabin can be heard calling from ahead "I believe this is the destination you Men were looking for."
+Immediately to your left is Ruzanack Rebelly readjusting his pack on his shoulders.
+The Cool Dry air hits your nostrils as you immediately notice the smell of stale still air. Besides the sounds of yourself, Rabin, & Ruznack the room is eerily quiet.
+Ruznack immediately takes the lead approcing Rabin who is standing at the beginning of the bridge and attempts to pass him and cross the bridge.
+
+### The Encounter
+
+While the Sandstone is carved out several pressure plates exist on the bridge. Four of the pressure plates exist in front of the carved out holes and will trigger the poison dart traps from the sides when at least 20 lbs of weight is placed on them.
+
+* DC 15 Investigation Check to notice the Pressure Plates
+* Poison Dart Attack Roll: 1d20 + 8 against all targets within 5 ft of the pressure plate
+* Poison Dart Damage Rol: 1d4 Piercing + 2d10 Poison on failed dc 15 Con Save otherwise half Poison damage
