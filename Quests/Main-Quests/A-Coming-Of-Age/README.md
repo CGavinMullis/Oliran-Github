@@ -114,6 +114,7 @@ The room starts with a series of stairs leading down to a narrow sandstone bridg
 * Knowledgable on Desert Terrain
 * Deset Guide Hired by Varis
 
+![Rabin-Sev](https://github.com/CGavinMullis/Oliran-Github/blob/a59b8938e6971ec24a8911186bd8178788574a98/Characters/NPCs/Generic-NPCs/Rabin-Sev/Rabin-Sev.jpg)
 ![Rabin-Sev-Stats](https://github.com/CGavinMullis/Oliran-Github/blob/9f6dea0eac676940aa7c4625938e5d1a18ff643c/Characters/NPCs/Generic-NPCs/Rabin-Sev/Rabin-Sev-Stats.PNG)
 
 #### Ruznack Redbelly - Dwarf
@@ -122,6 +123,7 @@ The room starts with a series of stairs leading down to a narrow sandstone bridg
 * Dense
 * Helpful in a Dungeon Crawl
 
+![Ruzanack-Redbelly](https://github.com/CGavinMullis/Oliran-Github/blob/a59b8938e6971ec24a8911186bd8178788574a98/Characters/NPCs/Generic-NPCs/Ruznack-Redbelly/Ruznack-Redbelly.jpg)
 ![Ruznack-Redbelly-Stats](https://github.com/CGavinMullis/Oliran-Github/blob/9f6dea0eac676940aa7c4625938e5d1a18ff643c/Characters/NPCs/Generic-NPCs/Ruznack-Redbelly/Ruznack-Redbelly-Stats.PNG)
 
 Upon entering the room the voice of Rabin can be heard calling from ahead "I believe this is the destination you Men were looking for."
