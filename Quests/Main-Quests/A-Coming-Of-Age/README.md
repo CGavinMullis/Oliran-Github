@@ -114,11 +114,15 @@ The room starts with a series of stairs leading down to a narrow sandstone bridg
 * Knowledgable on Desert Terrain
 * Deset Guide Hired by Varis
 
+![Rabin-Sev-Stats](https://github.com/CGavinMullis/Oliran-Github/blob/9f6dea0eac676940aa7c4625938e5d1a18ff643c/Characters/NPCs/Generic-NPCs/Rabin-Sev/Rabin-Sev-Stats.PNG)
+
 #### Ruznack Redbelly - Dwarf
 
 * Greedy
 * Dense
 * Helpful in a Dungeon Crawl
+
+![Ruznack-Redbelly-Stats](https://github.com/CGavinMullis/Oliran-Github/blob/9f6dea0eac676940aa7c4625938e5d1a18ff643c/Characters/NPCs/Generic-NPCs/Ruznack-Redbelly/Ruznack-Redbelly-Stats.PNG)
 
 Upon entering the room the voice of Rabin can be heard calling from ahead "I believe this is the destination you Men were looking for."
 Immediately to your left is Ruzanack Rebelly readjusting his pack on his shoulders.
@@ -127,8 +131,19 @@ Ruznack immediately takes the lead approcing Rabin who is standing at the beginn
 
 ### The Encounter
 
-While the Sandstone is carved out several pressure plates exist on the bridge. Four of the pressure plates exist in front of the carved out holes and will trigger the poison dart traps from the sides when at least 20 lbs of weight is placed on them.
+While the Sandstone is carved out several pressure plates exist on the bridge. Four of the pressure plates exist in front of the carved out holes and will trigger the poison dart traps from the sides when at least 20 lbs of weight is placed on them. One of the pressure plates is connected to a rolling sphere. Attempting to pull anything off the statue ro pick up any of the small elaphants also triggeres the rolling sphere
 
 * DC 15 Investigation Check to notice the Pressure Plates
+* Things can be Wedged under the Plates. The Plates can be triggered early as well.
 * Poison Dart Attack Roll: 1d20 + 8 against all targets within 5 ft of the pressure plate
-* Poison Dart Damage Rol: 1d4 Piercing + 2d10 Poison on failed dc 15 Con Save otherwise half Poison damage
+* Poison Dart Damage Roll: 1d4 Piercing + 2d10 Poison on failed dc 15 Con Save otherwise half Poison damage
+
+* Sphere pressure plates can be detcted with DC 15 Investigation
+* Sphers Trapdoor can be detected with DC 15 Perception Check
+* Upon triggering the rolling sphere initiative is rolled. Sphere gets +8 to Initiative
+* Sphere moves 45 ft in a stright line DC 15 Dex Save to not get hit or take 10d10 Bludgeoning
+* DC 20 Strength Check to stop the sphere. On a success the Spheres speed is reduced by 15 ft
+* If its speed drops to 0 it is no longer a threat. Damge is reduced by 4d10 first time, 3d10 second time, 3d10 last time.
+
+* Ruznack Will attempt to touch, pull, and disturb things unprovoked. He does not check for traps.
+* Rabin is more perceptive and will act more cauciously searching for traps as he walks.
