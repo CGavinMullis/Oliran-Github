@@ -149,3 +149,19 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 
 * Ruznack Will attempt to touch, pull, and disturb things unprovoked. He does not check for traps.
 * Rabin is more perceptive and will act more cauciously searching for traps as he walks.
+
+
+## Kiko & Oasis Trial
+
+Lore Dump Watches Velik Environment Catastrophy
+
+## Chrono Trial
+
+### People: Cassio
+
+
+
+
+## Mugdul Trial
+
+Gambling All - In Clairvoyance

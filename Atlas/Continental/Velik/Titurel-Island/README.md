@@ -35,6 +35,17 @@ The cove itself is full of crashed ships that failed to make it into Mermaid's L
 ### The Thick Bucaneer
 ![The Thick Bucaneer](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/The-Thick-Bucaneer.jpg)
 
+### Fortune Teller
+
+- Mugdul
+  - 
+- Kiko
+  - 
+- Varis
+  - 
+- Oasis
+  - I see you venturing to a strange land full of mystical creatures. Its beautiful. Its full of contradictions. Bright yet Dark. Beautiful yet deadly.
+
 ### The Glowing Lady
 ![The Glowing Lady](https://github.com/CGavinMullis/Oliran-Github/blob/main/Atlas/Continental/Velik/Titurel-Island/Local/Scene/The-Glowing-Lady.jpg)
 
