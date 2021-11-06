@@ -108,7 +108,7 @@ The room starts with a series of stairs leading down to a narrow sandstone bridg
 
 ### People: Rabin Sev & Ruznack Redbelly
 
-#### Rabin Sev
+#### Rabin Sev - Human
 
 * Mild Mannered
 * Knowledgable on Desert Terrain
@@ -153,15 +153,55 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 
 ## Kiko & Oasis Trial
 
+### People: Professor Whiataker & Uncle Arbor Blacksand
+
+#### Professor Whiataker - Human
+
+* Whitty, Keen , Intelligent
+* Doesn't Drink unless nudged too then drinks too much
+* Interested in History of Forgotten Cultures & Gadgets
+
+![Professor Whiataker](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
+
+#### Arbor Blacksand - Firbolg
+
+* Bulky Boy
+* Very Grounded World View
+* Congenial
+
+![Arbor Blacksand](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
 Lore Dump Watches Velik Environment Catastrophy
 
 ## Chrono Trial
 
-### People: Cassio
+### People: Cassio - Human
 
+#### Cassio - Human
 
+* Bard
+* Not Powerful or Amazing but Kind & Compassionant
+* Plays the Clarinet
 
+![Cassio](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
 
 ## Mugdul Trial
 
-Gambling All - In Clairvoyance
+### People: Gwenevere Sakrin & Gurak
+
+#### Gwenevere Sakrin - Human
+
+* Tricky Wordsmith
+* Sassy
+* Tattoos Around Eyes
+* Divination Magic
+
+![Gwenevere Sakrin](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Gwenevere-Sakrin/Gwenevere-Sakrin.jpg)
+
+#### Gurak - Goliath
+
+* Driven Competitor
+* Plays to Win Competition Measures Talent
+* Relies on unfair advantages but remembers that such advantages can be lost
+
+![Gurak](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Gurak/Gurak.jpg)
+
