@@ -161,7 +161,7 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 * Doesn't Drink unless nudged too then drinks too much
 * Interested in History of Forgotten Cultures & Gadgets
 
-![Professor Whiataker](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
+![Professor Whiataker](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Prof-Whiataker/Prof-Whiataker.jpg)
 
 #### Arbor Blacksand - Firbolg
 
@@ -169,7 +169,7 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 * Very Grounded World View
 * Congenial
 
-![Arbor Blacksand](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
+![Arbor Blacksand](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Arbor-Blacksand/Arbor-Blacksand.jpg)
 Lore Dump Watches Velik Environment Catastrophy
 
 ## Chrono Trial
