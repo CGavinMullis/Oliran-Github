@@ -252,6 +252,8 @@ Requires Concentration
 * Fight 2 Yuan-Ti Purebloods performing Ritual.
 * Green Orb Drops from summoning circle
 
+![Yaun-Ti](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Yuan-Ti-Pureblood/Pureblood-Stats.PNG)
+
 ## Chrono Trial
 
 ### Location: Cassio's Deathbed - Oraphia
@@ -357,3 +359,5 @@ As a bonus action, you can empower the tattoo for 1 minute. For the duration, ea
 ## Shadows
 
 * Fight 1 shadow for each lost trial minimum of  1
+
+![Shadow](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Shadow/Shadow-Stats.PNG)
