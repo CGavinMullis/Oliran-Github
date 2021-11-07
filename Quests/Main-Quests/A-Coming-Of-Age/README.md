@@ -200,6 +200,7 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 * Congenial
 
 ![Arbor Blacksand](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Arbor-Blacksand/Arbor-Blacksand.jpg)
+
 Lore Dump Watches Velik Environment Catastrophy
 
 ## Chrono Trial
@@ -241,6 +242,7 @@ Cassio doesn't seem to notice upon people entering. But if talked to will talk b
 * After sometime Cassio instructs chrono to open his messenger bag for he has something to give him.
 
 **Shield of Sorrow** (Bard, Cleric, or Paladin Attunement)
+
 A 2AC banded iron shield with a sad drama mask engraved on the front. Once per short rest when attacked can use a reaction to send out a wave of sorrow.
 
 Attacker must make a Wisdom save DC13 or be inflicted with short term madness lasting 1 minute (See short term madness Table roll 1d100).
