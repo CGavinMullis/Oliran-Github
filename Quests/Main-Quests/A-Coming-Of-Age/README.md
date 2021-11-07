@@ -180,8 +180,23 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 * Ruznack Will attempt to touch, pull, and disturb things unprovoked. He does not check for traps.
 * Rabin is more perceptive and will act more cauciously searching for traps as he walks.
 
+* If Ruznack survives he finds a red orb behind the statue when investigating
+* Rabin will find the rod
+
+**Rod of The Pact Keeper** (Warlock attunement)
+
+Rod, uncommon (+1)
+
+While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. This bonus is determined by the rod's rarity.
+
+In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.
+
 
 ## Kiko & Oasis Trial
+
+### Location - Somewhere in the Velik Wilderness
+
+Jungle Biome Birds tweeting smells of running water Shadows creeping.
 
 ### People: Professor Whiataker & Uncle Arbor Blacksand
 
@@ -201,7 +216,40 @@ While the Sandstone is carved out several pressure plates exist on the bridge. F
 
 ![Arbor Blacksand](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Arbor-Blacksand/Arbor-Blacksand.jpg)
 
-Lore Dump Watches Velik Environment Catastrophy
+## Encounter
+
+* The professor explains mostly history of the lost Yuan-Ti Civilization
+* Arbor Blacksand primarliy explains about the environmental changes
+
+* The professor explains that the first known sentient people of Oliran were know as the creators. It is unknown if this was aname given to them by themselves or simply a mistranslation by human and elven scholars. These races consisted of Sarurkh, a humanoid-reptilian top half and snake bottom; Batarichi, an amphibiod race; Aearee, a winged bird beak race; the fey, a mix of Korreds, pixies, and sprites; and Humans. Only the Sarrukh, Batarachi, and earee had large empires.
+
+* Abor explains that the continents looked much different back then. These creator races used magic and labor to teraform their lands to fit their needs instead of leaving them alone. Disastrous Calamities occured due to this terraforming. Earthquakes, dust storms spanning a continent, floods that would wipe out entire land masses, fires removing entire jungles. Entire contients were erased and the seas rearranged. 
+
+* THe professor explains that on top of this terraforming, some legends say they intended to rearrange the stars once they were done with Oliran. The extreme climate change wiped out most of the Batarachi, but the Sarrukh thrived and claimed the new land for themselves. Experiments were done by the Sarrukh to create slaves.Humans were captured, tortued, and experimented on. A serpent like, humanoid was created the Yuan-Ti. From the scripts I have gathered it seems that they had a very hierarchyical structure. Those will more prominent snake like features were regarded as higher class while those more humanoid were sent to spy on other societies or do manual labor.
+
+* Arbor explains that these spy Yaun Ti would inflitrate societies in order to diplomatically strong arm future climate modification. Do you truly know why Port Karim exists in a desert these days. Our ancestors don't remember it as such. It was once a lush jungle of palm trees containing thousands of unique species. Now all thats left are cacti and dry brush.
+
+* The professor explains the history is blurry records are rare and dominant civilizations began altering historical documents. Some conflict occurred between the Sarurukh and Yaun-Ti and then later the Yuan-Ti and humans. About 1000 years ago the Former capital of Ioslend, Lorissa, managed to wipe out the Yaun-ti and rewrote the history as if the yuan-ti never existed. Most people now believe that it was dragons that previously dominanted Oliran, but this can not be the case. No historical documents predating Lorissa mention Dragons at all.
+
+* Arbor explains about 300 years ago Lorissa was struck by a massive rock from space and sunk into the ocean. A massive tidal wave obliterated most of the surrounding area and further altered the climate of Ioslend and Velik. This cannot be allowed to occur again. There a ripples of climate altering in the air. Things are once again changing.
+
+* The professor then enchants Oasis gun and Abor hands Kiko a weapon.
+
+**Rip Vine** (Requires Attunment by a Ranger)
+
+1d6 whip (+5ft reach)
+
+This vine is imbued with circular magic, cracking the whip can create a minature time loop.
+
+The whip can hold up to 3 charges and regains 1d3 charges on a long rest. 
+
+**Flintlock of Blessings** (Requires attunement by a Cleric)
+
+Flintlock pistol statblock
+Twice per short long rest as an action allows you to bless/shoot 5 of your allies (Follows Bless Rules).
+Requires Concentration 
+
+* Fight 2 Yuan-Ti Purebloods performing Ritual.
 
 ## Chrono Trial
 
@@ -254,14 +302,20 @@ Attacker can Wisdom Save at the end of their turn.
 
 ![Cassio's Ghost](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio-Ghost.jpg)
 
+After defeating the Ghost a Blue Orb plops on the ground in the ghosts place
+
 ## Mugdul Trial
+
+### Location - Cellar in Uzord
+
+Entering the room you open a large heavy metal cellar door. Dripping water can be heard through the cold stone walls around. A long wooden table can be seen in the middle of the circular room with an orante green table cloth on it. You see a deck of cards on the table with a pair of already dealt cards scattered on each side. Also on the table is a small stone carving of a coiled snake. You see a large chest in one corner, we incredibly intrecate patterns of various woods inlaid across the lid. There a three chairs in the room. A modest but ornate green chair with cushioned arm rests (The fabric has sewn in hashing gold patterns), another modest but orante cushioned yellow fabric chair, and a very orante green chair almost throne like with metal spikes at the head. In these chairs you see.
 
 ### People: Gwenevere Sakrin & Gurak
 
 #### Gwenevere Sakrin - Human
 
 * Tricky Wordsmith
-* Sassy
+* Sassy, blonde , discerning eyes
 * Tattoos Around Eyes
 * Divination Magic
 
@@ -269,9 +323,31 @@ Attacker can Wisdom Save at the end of their turn.
 
 #### Gurak - Goliath
 
+* Tough looking man, grinning, excited to play
 * Driven Competitor
 * Plays to Win Competition Measures Talent
 * Relies on unfair advantages but remembers that such advantages can be lost
 
 ![Gurak](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Gurak/Gurak.jpg)
 
+### The Encounter
+
+Gurak asks you to take a seat sop that the game may begin.
+
+* Basically Mugdul requested this meeting through a fellow worker at the harbor after Atugar told you about it. Gurak is known for his love of gambling and his vast amout of wealth. Gwenevere is there to act as a referee but she is secretly looking at Mugduls thoughts with magic and transmitting it to Gurak telepathically
+* Two Card Poker betting on each hand.
+  * Gurak always wins. Unless Mugdul makes bets without knowing his own cards or somehow deceiving Gwenevere.
+  * Before playing they Tattoo Mugdul
+  * Upon winning Mugdul is told to open the chest and take out the Purple Orb for it is his prize as planned.
+
+**Lesser Eldritch Tatoo**
+
+Produced by a special needle, this magic tattoo depicts clawlike forms and other jagged shapes.
+
+Tattoo Attunement To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.
+
+If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.
+
+**Eldritch Maul**
+
+As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 10 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra 1d4 force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
