@@ -250,7 +250,7 @@ Attacker can Wisdom Save at the end of their turn.
 * Chrono please grab the Cleric I have some things I must discuss with the Gods (The door will be found locked, upong turning around Cassio is dead)
 * Cassio's ghost rises from the body and attacks Chrono
 
-
+![Cassio's Ghost](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio-Ghost.jpg)
 
 ## Mugdul Trial
 
