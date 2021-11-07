@@ -250,6 +250,7 @@ Twice per short long rest as an action allows you to bless/shoot 5 of your allie
 Requires Concentration 
 
 * Fight 2 Yuan-Ti Purebloods performing Ritual.
+* Green Orb Drops from summoning circle
 
 ## Chrono Trial
 
@@ -351,3 +352,8 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 **Eldritch Maul**
 
 As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 10 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra 1d4 force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
+
+
+## Shadows
+
+* Fight 1 shadow for each lost trial minimum of  1
