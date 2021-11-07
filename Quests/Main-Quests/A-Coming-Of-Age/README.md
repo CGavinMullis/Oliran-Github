@@ -130,7 +130,7 @@ As one person passes through the door the door slams shut behind them. If two pe
 
 ### Location: Lost City of Jehkid
 
-The room starts with a series of stairs leading down to a narrow sandstone bridge with strange raised edges almost as if its carved out like a bowl. Below the sandstone bridge carved rock spears can be seen. Along the walls of the room, 4 groups of holes can be seen in the sandstone, always in groups of 3x3 (a total of 9 per group). At the end of the bridge, a large statue (The Lost One) of a 3 Elephant Headed Humanoid sits criss cross with arms outstretched. In one hand rests a massive triple headed flail. In the other hand, rests a linen bag overflowing with grain. Around the statue are several small carved elephants. They consist of several different colors and materials. Some are carved of expensive stone others are carved of wood and painted. Some consist of several sticks bound together by twine. 
+The room starts with a series of stairs leading down to a narrow sandstone bridge with strange raised edges almost as if its carved out like a bowl. Below the sandstone bridge carved rock spears can be seen. Along the walls of the room, 4 groups of holes can be seen in the sandstone, always in groups of 3x3 (a total of 9 per group). At the end of the bridge, a large statue (The Lost One) of a 3 Elephant Headed Humanoid sits criss cross with arms outstretched, a stone snake coiled around their feet. In one hand rests a massive triple headed flail. In the other hand, rests a linen bag overflowing with grain. Around the statue are several small carved elephants. They consist of several different colors and materials. Some are carved of expensive stone others are carved of wood and painted. Some consist of several sticks bound together by twine. 
 
 * Marble Elephant
 * Wooden Twigs and Silken Twine
@@ -204,6 +204,10 @@ Lore Dump Watches Velik Environment Catastrophy
 
 ## Chrono Trial
 
+### Location: Cassio's Deathbed - Oraphia
+
+Upon opening the door, Cassio can be seen in a small bed under a blue quilt laying there quitely looking into the lantern on the side table next to him. Also in the room is a maple rocking chair and Cassio's Messenger Bag. Inbetween the Side Table and Bed is a small window looking out onto the city of Oraphia. The window feels cold. It seems to be Winter and its dark outside already at just 7:00 pm. This room is on the second floor of this two story building from the way the ceiling angles. The celing is too short near the walls to stand. People can be heard talking outside in the street and the college of oraphia can be seen in the distance with lit up windows. Upon closer inspection a large stone snake can be seen coiled around the steeple of the college cathedral. 
+
 ### People: Cassio - Human
 
 #### Cassio - Human
@@ -213,6 +217,40 @@ Lore Dump Watches Velik Environment Catastrophy
 * Plays the Clarinet
 
 ![Cassio](https://github.com/CGavinMullis/Oliran-Github/blob/main/Characters/NPCs/Generic-NPCs/Cassio/Cassio.jpg)
+
+### The Encounter
+
+Cassio doesn't seem to notice upon people entering. But if talked to will talk back. His air is generally downtrodeen, somewhat regretful as he is coming to terms with his death. Cassio tells a few stories. 
+
+* First when looking into the lamp.
+  * Chrono... we are the light of this cruel world. A castle that is built on a mountain cannot be hidden away... Similarly, people do not light their lamps and then hide them under a bucket. Instead they hang it from a rope, put it on a table, or bring it with them and it gives light to all those around them. In the same way you must let your light shine for others so that they can see... *He trails off*
+* If discussing his death
+  * Chrono, people don't sew a patch of expensive cloth to an old garment. The stitching will fall out and make the tear worse. Neither do people pour expensive wine into an old wineskin. If they do it will ruin the wineskin and waste the good wine. No, they pour new wine into new wineskins so that both may be preserved. *Cassio looks at Chrono and spaces out*
+* If discussing Chrono
+  * Chrono, If a farmer plants his crop in the soil what does he do after that. 
+  * He will tend to it while the crop is small, remove weeds, maybe add fertilizer, but then what?
+  * Whether he is away or sleeping, Chrono, the seeds sprout and grow. The farmer doesn't know why.
+  * All by itself the soil produces grain. First the stalk, then the head then the full kernel.
+  * Chrono I've already planted your seed and tended to the field. There is nothing left for me to do.
+  * You must wait for the world to finish the process...
+* If discussing the snake
+  * I once had a laborer friend who came to me in the night. His child was hungry and he was out of bread. THe wasn't a wealthy man and so he asked me to lend him a loaf.
+  * Inside I spoke to myself, "Don't bother me, it is the middle of the night, my door is already locked, im sleepy, and that loaf is my breakfast, go away"
+  * But instead I felt pity and gave him the loaf against my innerself. 
+  * Chrono, like my old friend, ask and it will be given, Seek these things you wonder about and you will find answers.
+* After sometime Cassio instructs chrono to open his messenger bag for he has something to give him.
+
+**Shield of Sorrow** (Bard, Cleric, or Paladin Attunement)
+A 2AC banded iron shield with a sad drama mask engraved on the front. Once per short rest when attacked can use a reaction to send out a wave of sorrow.
+
+Attacker must make a Wisdom save DC13 or be inflicted with short term madness lasting 1 minute (See short term madness Table roll 1d100).
+
+Attacker can Wisdom Save at the end of their turn. 
+
+* Chrono please grab the Cleric I have some things I must discuss with the Gods (The door will be found locked, upong turning around Cassio is dead)
+* Cassio's ghost rises from the body and attacks Chrono
+
+
 
 ## Mugdul Trial
 
