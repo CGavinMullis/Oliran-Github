@@ -1,5 +1,35 @@
 # A Coming of Age
 
+- [A Coming of Age](#a-coming-of-age)
+  - [Intro](#intro)
+  - [Wings & Things](#wings--things)
+  - [Information Marshall Has](#information-marshall-has)
+  - [Traveling to the Cave of Snakes](#traveling-to-the-cave-of-snakes)
+  - [Village of Birds](#village-of-birds)
+  - [Traveling to the Cave of Snakes Part 2](#traveling-to-the-cave-of-snakes-part-2)
+  - [Cave of Snakes Entrance](#cave-of-snakes-entrance)
+    - [Jumping onto the statue](#jumping-onto-the-statue)
+    - [Jumping into the water](#jumping-into-the-water)
+    - [Climbing down the Vines](#climbing-down-the-vines)
+  - [First Encounter](#first-encounter)
+  - [Varis Trial](#varis-trial)
+    - [Location: Lost City of Jehkid](#location-lost-city-of-jehkid)
+    - [People: Rabin Sev & Ruznack Redbelly](#people-rabin-sev--ruznack-redbelly)
+      - [Rabin Sev - Human](#rabin-sev---human)
+      - [Ruznack Redbelly - Dwarf](#ruznack-redbelly---dwarf)
+    - [The Encounter](#the-encounter)
+  - [Kiko & Oasis Trial](#kiko--oasis-trial)
+    - [People: Professor Whiataker & Uncle Arbor Blacksand](#people-professor-whiataker--uncle-arbor-blacksand)
+      - [Professor Whiataker - Human](#professor-whiataker---human)
+      - [Arbor Blacksand - Firbolg](#arbor-blacksand---firbolg)
+  - [Chrono Trial](#chrono-trial)
+    - [People: Cassio - Human](#people-cassio---human)
+      - [Cassio - Human](#cassio---human)
+  - [Mugdul Trial](#mugdul-trial)
+    - [People: Gwenevere Sakrin & Gurak](#people-gwenevere-sakrin--gurak)
+      - [Gwenevere Sakrin - Human](#gwenevere-sakrin---human)
+      - [Gurak - Goliath](#gurak---goliath)
+
 ## Intro
 The residents within the Village of Birds are wary of outsiders and value courage above all else. In order to pass through the magical barrier surrounding the village, individuals must first pass a Trial of Courage. The Trial of Courage can be found in a cave west of the Village of Birds. Before passing the Trial ,entrance to the village is impossible. Marshall, a small birdfolk, can provide further information on the trial, clan, and village.
 
