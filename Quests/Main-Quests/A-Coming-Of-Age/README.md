@@ -19,16 +19,23 @@
       - [Ruznack Redbelly - Dwarf](#ruznack-redbelly---dwarf)
     - [The Encounter](#the-encounter)
   - [Kiko & Oasis Trial](#kiko--oasis-trial)
+    - [Location - Somewhere in the Velik Wilderness](#location---somewhere-in-the-velik-wilderness)
     - [People: Professor Whiataker & Uncle Arbor Blacksand](#people-professor-whiataker--uncle-arbor-blacksand)
       - [Professor Whiataker - Human](#professor-whiataker---human)
       - [Arbor Blacksand - Firbolg](#arbor-blacksand---firbolg)
+  - [Encounter](#encounter)
   - [Chrono Trial](#chrono-trial)
+    - [Location: Cassio's Deathbed - Oraphia](#location-cassios-deathbed---oraphia)
     - [People: Cassio - Human](#people-cassio---human)
       - [Cassio - Human](#cassio---human)
+    - [The Encounter](#the-encounter-1)
   - [Mugdul Trial](#mugdul-trial)
+    - [Location - Cellar in Uzord](#location---cellar-in-uzord)
     - [People: Gwenevere Sakrin & Gurak](#people-gwenevere-sakrin--gurak)
       - [Gwenevere Sakrin - Human](#gwenevere-sakrin---human)
       - [Gurak - Goliath](#gurak---goliath)
+    - [The Encounter](#the-encounter-2)
+  - [Shadows](#shadows)
 
 ## Intro
 The residents within the Village of Birds are wary of outsiders and value courage above all else. In order to pass through the magical barrier surrounding the village, individuals must first pass a Trial of Courage. The Trial of Courage can be found in a cave west of the Village of Birds. Before passing the Trial ,entrance to the village is impossible. Marshall, a small birdfolk, can provide further information on the trial, clan, and village.
@@ -240,6 +247,7 @@ Jungle Biome Birds tweeting smells of running water Shadows creeping.
 1d6 whip (+5ft reach)
 
 This vine is imbued with circular magic, cracking the whip can create a minature time loop.
+When you miss an attack with the whip you may reroll the attack and take the outcome of the new roll.
 
 The whip can hold up to 3 charges and regains 1d3 charges on a long rest. 
 
@@ -347,7 +355,7 @@ Gurak asks you to take a seat sop that the game may begin.
 
 Produced by a special needle, this magic tattoo depicts clawlike forms and other jagged shapes.
 
-Tattoo Attunement To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.
+**Tattoo Attunement** To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.
 
 If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.
 
