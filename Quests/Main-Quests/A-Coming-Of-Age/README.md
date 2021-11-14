@@ -369,3 +369,89 @@ As a bonus action, you can empower the tattoo for 1 minute. For the duration, ea
 * Fight 1 shadow for each lost trial minimum of  1
 
 ![Shadow](https://github.com/CGavinMullis/Oliran-Github/blob/main/Monsters/Generic-Monsters/Shadow/Shadow-Stats.PNG)
+
+## Continuation
+
+### In the Village of Birds
+
+![The Village of Birds Soundtrack](https://open.spotify.com/track/2cc6hvvvEXRmBWUI6AMgc6?si=0ca662a6dd5e4f90&nd=1)
+
+* Immediately upon entering the village Presley and Wylie Faulkner can be seen running towards Marshall to congratulate him on completing to the trial and welcoming him back to the village. Behind them their father, Al or Alden can be seen hanging back waving.
+* On the 2 story house the Mother Bird can also be seen looking out.
+* In the floating building Humpy Palumbo can be seen fishing in Misty Run.
+* Presley and Wylie are both very friendly and interested in the new non bird folk, but their father calls to them saying that Iria, their mother will want to see Marshall.
+* Marshall reccomends they visit his family and points out the direction he says he will be there momentarily, but he is going to visit his friends house first. He mentions that his dad is very kind and friendly it should be no worries they will be welcomed right in.
+
+
+
+## Featherweight Household
+
+![Featherweight Household Scary soundtrack](https://www.youtube.com/watch?v=dy4ie4sxSPI)
+![Featherweight Household Normal Soundtrack](https://www.youtube.com/watch?v=sGFwzXoYzVA)
+
+
+
+## The Stumbling Ass
+
+![The Stumbling Ass Soundtrack](https://www.youtube.com/watch?v=8T_WTrVGnDg)
+
+### Daisy Ballard
+
+* Owner of the Bar
+* Bar has been in her family generations
+* Enjoys collecting interesting items on the side.
+* Offers a challenge for free booze.
+  * Drops a coin in the bottom of sentient chalice (Barthalomew).
+  * Simply remove the coin without getting your hands wet or moving the chalice in any way.
+  * And you can have a glass on the house
+* Sells High Knee Ken - Standard Glass of Regular Ale
+* Stan Mugfell - A regular tasting ale with a bag of River Ginger tea in it.
+* Needy Meady - An imported halfling mead, served in small cups. Very pleasant taste, cheap in halfling towns, but expensive elsewhere.
+* ![Other Liquors](https://www.dndspeak.com/2018/03/01/100-signature-tavern-drinks/)
+
+### Graeme Strudwicke
+
+* Drinking in the bar with his old friend Cynebald
+* Talking about past adventures together (Remember that time a Boggle stole your favorite pen. AHAHAHAAA and then you woke up the next morning with your shoes tied together)
+* Graeme is a hearty fellow who travels around guarding caravans and traders.
+
+### Cynebald Worthame
+
+* Drinking in the bar with his old friend Grame
+* Talking about past adventures (Remember the time you took payment in Electrum instead of Platinum, Godiva was pissed)
+* Cynebald is a logistics man. Working with Cynebald they plan routes for traders guard them and move wealth around.
+
+### Jay Crawford
+
+* Drinking with his love interest Godiva
+* Generally entertaining her talks of high class living
+* Thirsty and has no chance
+
+### Godiva Pavone
+
+* High Class Artsy type
+* Sells Sculptures and the Like
+* Talks low of those that cant enjoy high class lvining which is kind of ironic cause she lives in the village of birds
+* Takes trips to Large Cities when she can.
+* Bullie Jay for his ordinariness
+
+## Osborn's Hermetics
+
+![Osborn's Hermetics](https://www.youtube.com/watch?v=diCDiU7gGHc)
+
+### Osborn Hawkins
+
+* Very empathetic and trusts people quickly
+* Enjoys research and concotions.
+* Incredibly knowledgable on the local flora.
+* You see this right here this is Sun Lavender it has properties of warmth and fire. That doesn't mean it alone can give any benifits. 
+* But when mixed with some Dragons Bark which has properties of hardiness and fire, Pino Nut with explosive predispositions, and just a dash of Autumn Sage for taste.
+* You can make something resembling a minor resistance to fire potion. (1d4 flat damage reduction to all fire damage for 1 hour, 100 gold)
+
+## Mother Birds Basement
+
+![Motherbirds Basement Soundtrack](https://www.youtube.com/watch?v=8ASeD9YzI-M&list=PLg8hKnQ3Ijey6XyUF02juPcICnA-gzKes)
+
+## Into the Feywild
+
+![Into the Feywild Soundtrack](https://www.youtube.com/watch?v=rnqH0XgkJPU)
